@@ -11,6 +11,7 @@ public class Main {
         s.Ispisi();
         s.Postavi(0,0,0);
         s.Ispisi();
+        s.Ispisi();
 
     }
 }
